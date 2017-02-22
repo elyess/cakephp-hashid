@@ -1,5 +1,5 @@
 {
-	"name": "dereuromark/cakephp-hashid",
+	"name": "elyess/cakephp-hashid",
 	"type": "cakephp-plugin",
 	"description": "A CakePHP plugin to allow using hashids instead of numeric primary keys.",
 	"keywords": ["cakephp", "plugin", "hashids", "behavior"],
